@@ -6,7 +6,7 @@ this website is a Reading notes repo to hold my 401 reading notes
 |---|---|
 | Node Ecosystem, TDD, CI/CD | [Read 1](https://osamahanoun.github.io/reading-notes-repository-401/class-01)  |
 |Classes, Inheritance, Functional Programming| [Read 2](https://osamahanoun.github.io/reading-notes-repository-401/class-02) |
-| | [Read 3](https://osamahanoun.github.io/reading-notes-repository-401/class-03) |
+|Data Modeling and NoSQL Databases | [Read 3](https://osamahanoun.github.io/reading-notes-repository-401/class-03) |
 |  |[Read 4](https://osamahanoun.github.io/reading-notes-repository-401/class-04)|
 |  |[Read 5](https://osamahanoun.github.io/reading-notes-repository-401/class-05)|
 | |[Read 6](https://osamahanoun.github.io/reading-notes-repository-401/class-06)|
