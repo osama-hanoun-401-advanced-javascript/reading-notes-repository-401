@@ -9,7 +9,7 @@ this website is a Reading notes repo to hold my 401 reading notes
 |Data Modeling and NoSQL Databases | [Read 3](https://osamahanoun.github.io/reading-notes-repository-401/class-03) |
 | Advanced Mongo/Mongoose |[Read 4](https://osamahanoun.github.io/reading-notes-repository-401/class-04)|
 |  |[Read 5](https://osamahanoun.github.io/reading-notes-repository-401/class-05)|
-| |[Read 6](https://osamahanoun.github.io/reading-notes-repository-401/class-06)|
+| HTTP and REST |[Read 6](https://osamahanoun.github.io/reading-notes-repository-401/class-06)|
 |  |[Read 7](https://osamahanoun.github.io/reading-notes-repository-401/class-07)|
 |  |[Read 8](https://osamahanoun.github.io/reading-notes-repository-401/class-08)|
 |  |[Read 9](https://osamahanoun.github.io/reading-notes-repository-401/class-09)|
