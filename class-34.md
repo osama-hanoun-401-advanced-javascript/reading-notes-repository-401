@@ -1,5 +1,5 @@
 
-### Reading: <Login /> and <Auth />
+### `<Login />` and `<Auth />`
 
 The `<Auth />` component helps make authentication and role-based authorization easy.
 
